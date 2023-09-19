@@ -1,1 +1,1 @@
-# Ideal-gas-model
+# Gas-model
